@@ -1,0 +1,6 @@
+megs: 32
+boot: floppy
+floppya: 1_44="lenrek.img", status=inserted
+mouse: enabled=0
+clock: sync=realtime
+cpu: ips=200000
